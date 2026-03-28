@@ -312,7 +312,7 @@ Proposal dijalankan.
 
 # Kesimpulan
 
-`MyDAO` adalah smart contract governance DAO yang memungkinkan:
+`DAO` adalah smart contract governance DAO yang memungkinkan:
 
 * Proposal system
 * Token-based voting
